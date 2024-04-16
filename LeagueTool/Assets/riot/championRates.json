@@ -1,0 +1,2844 @@
+{
+  "data": {
+    "1": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.203
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "2": {
+      "TOP": {
+        "playRate": 1.267
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "3": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.012
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "4": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 2.063
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "5": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.91
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "6": {
+      "TOP": {
+        "playRate": 1.789
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "7": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.674
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "8": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.512
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "9": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.198
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "10": {
+      "TOP": {
+        "playRate": 1.616
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "11": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 3.53
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "12": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.983
+      }
+    },
+    "13": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0.666
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "14": {
+      "TOP": {
+        "playRate": 1.563
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "15": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 1.955
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "16": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.221
+      }
+    },
+    "17": {
+      "TOP": {
+        "playRate": 1.583
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "18": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.021
+      },
+      "BOTTOM": {
+        "playRate": 1.877
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "19": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.734
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "20": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.188
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "21": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 3.217
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "22": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 4.293
+      },
+      "UTILITY": {
+        "playRate": 1.693
+      }
+    },
+    "23": {
+      "TOP": {
+        "playRate": 1.29
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "24": {
+      "TOP": {
+        "playRate": 2.687
+      },
+      "JUNGLE": {
+        "playRate": 1.713
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "25": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.539
+      }
+    },
+    "26": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.215
+      }
+    },
+    "27": {
+      "TOP": {
+        "playRate": 0.839
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "28": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.347
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "29": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 3.328
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "30": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.318
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "31": {
+      "TOP": {
+        "playRate": 1.031
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "32": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.194
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "33": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.317
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "34": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.068
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "35": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 3.035
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.479
+      }
+    },
+    "36": {
+      "TOP": {
+        "playRate": 1.557
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "37": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.035
+      }
+    },
+    "38": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 2.424
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "39": {
+      "TOP": {
+        "playRate": 1.966
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.711
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "40": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 4.397
+      }
+    },
+    "41": {
+      "TOP": {
+        "playRate": 1.804
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "42": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0.749
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "43": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 3.062
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 3.713
+      }
+    },
+    "44": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0.672
+      }
+    },
+    "45": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 2.471
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "48": {
+      "TOP": {
+        "playRate": 1.664
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "50": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.31
+      }
+    },
+    "51": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 6.323
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "53": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 3.626
+      }
+    },
+    "54": {
+      "TOP": {
+        "playRate": 2.627
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "55": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 3.427
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "56": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.525
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "57": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.205
+      }
+    },
+    "58": {
+      "TOP": {
+        "playRate": 3.487
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "59": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.247
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "60": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.009
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "61": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.92
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "62": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.217
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "63": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.577
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.891
+      }
+    },
+    "64": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 8.536
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "67": {
+      "TOP": {
+        "playRate": 1.16
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 3.406
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "68": {
+      "TOP": {
+        "playRate": 1.122
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "69": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0.836
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "72": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0.464
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "74": {
+      "TOP": {
+        "playRate": 0.404
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "75": {
+      "TOP": {
+        "playRate": 1.4
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "76": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.789
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "77": {
+      "TOP": {
+        "playRate": 0.878
+      },
+      "JUNGLE": {
+        "playRate": 1.152
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "78": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.196
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "79": {
+      "TOP": {
+        "playRate": 2.219
+      },
+      "JUNGLE": {
+        "playRate": 2.017
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "80": {
+      "TOP": {
+        "playRate": 1.108
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.409
+      }
+    },
+    "81": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 7.601
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "82": {
+      "TOP": {
+        "playRate": 2.983
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "83": {
+      "TOP": {
+        "playRate": 1.674
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "84": {
+      "TOP": {
+        "playRate": 1.14
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 3.036
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "85": {
+      "TOP": {
+        "playRate": 0.591
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "86": {
+      "TOP": {
+        "playRate": 3.219
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "89": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.779
+      }
+    },
+    "90": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.474
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "91": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.118
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "92": {
+      "TOP": {
+        "playRate": 1.968
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "96": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 1.945
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "98": {
+      "TOP": {
+        "playRate": 1.604
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "99": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 2.076
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 3.954
+      }
+    },
+    "101": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.216
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.814
+      }
+    },
+    "102": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.071
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "103": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 7.488
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "104": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.87
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "105": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.902
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "106": {
+      "TOP": {
+        "playRate": 2.719
+      },
+      "JUNGLE": {
+        "playRate": 4.803
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "107": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.873
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "110": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 3.374
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "111": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 4.626
+      }
+    },
+    "112": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.539
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "113": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.089
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "114": {
+      "TOP": {
+        "playRate": 2.483
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "115": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0.478
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "117": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 4.397
+      }
+    },
+    "119": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 2.731
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "120": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.611
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "121": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 3.981
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "122": {
+      "TOP": {
+        "playRate": 4.699
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "126": {
+      "TOP": {
+        "playRate": 2.355
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.183
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "127": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.432
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "131": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.588
+      },
+      "MIDDLE": {
+        "playRate": 1.372
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "133": {
+      "TOP": {
+        "playRate": 0.708
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "134": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 2.118
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "136": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 2.726
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "141": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 4.583
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "142": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0.952
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "143": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.609
+      }
+    },
+    "145": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 8.778
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "147": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.714
+      }
+    },
+    "150": {
+      "TOP": {
+        "playRate": 1.538
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "154": {
+      "TOP": {
+        "playRate": 1.132
+      },
+      "JUNGLE": {
+        "playRate": 2.049
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "157": {
+      "TOP": {
+        "playRate": 1.162
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 4.791
+      },
+      "BOTTOM": {
+        "playRate": 1.108
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "161": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.139
+      }
+    },
+    "163": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.419
+      },
+      "MIDDLE": {
+        "playRate": 1.648
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "164": {
+      "TOP": {
+        "playRate": 1.231
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.567
+      }
+    },
+    "166": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.08
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "200": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.041
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "201": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.824
+      }
+    },
+    "202": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 5.282
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "203": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.098
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "221": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 4.569
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "222": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 9.249
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "223": {
+      "TOP": {
+        "playRate": 1.308
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "233": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 3.047
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "234": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 5.696
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "235": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 1.946
+      },
+      "UTILITY": {
+        "playRate": 4.24
+      }
+    },
+    "236": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 5.328
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "238": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 3.717
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "240": {
+      "TOP": {
+        "playRate": 0.873
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "245": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.893
+      },
+      "MIDDLE": {
+        "playRate": 1.306
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "246": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.489
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "254": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 2.986
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "266": {
+      "TOP": {
+        "playRate": 5.644
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "267": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.988
+      }
+    },
+    "268": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.796
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "350": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.686
+      }
+    },
+    "360": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 3.453
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "412": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 5.964
+      }
+    },
+    "420": {
+      "TOP": {
+        "playRate": 1.818
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "421": {
+      "TOP": {
+        "playRate": 1.088
+      },
+      "JUNGLE": {
+        "playRate": 1.688
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "427": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0.816
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "429": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 1.498
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "432": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.658
+      }
+    },
+    "497": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 2.554
+      }
+    },
+    "498": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 1.947
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "516": {
+      "TOP": {
+        "playRate": 1.586
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "517": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 3.29
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "518": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0.905
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.014
+      }
+    },
+    "523": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 2.615
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "526": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.679
+      }
+    },
+    "555": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 3.788
+      }
+    },
+    "711": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.424
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "777": {
+      "TOP": {
+        "playRate": 3.683
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 4.114
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "875": {
+      "TOP": {
+        "playRate": 2.493
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "876": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 1.491
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "887": {
+      "TOP": {
+        "playRate": 1.486
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "888": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.07
+      }
+    },
+    "895": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 1.681
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "897": {
+      "TOP": {
+        "playRate": 1.607
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "901": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.158
+      },
+      "BOTTOM": {
+        "playRate": 6.601
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    },
+    "902": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 0
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 3.163
+      }
+    },
+    "910": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 3.914
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 1.599
+      }
+    },
+    "950": {
+      "TOP": {
+        "playRate": 0
+      },
+      "JUNGLE": {
+        "playRate": 0
+      },
+      "MIDDLE": {
+        "playRate": 1.271
+      },
+      "BOTTOM": {
+        "playRate": 0
+      },
+      "UTILITY": {
+        "playRate": 0
+      }
+    }
+  },
+  "patch": "14.7"
+}
