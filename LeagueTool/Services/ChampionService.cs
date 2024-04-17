@@ -19,10 +19,10 @@ public class ChampionService
     {
         _db = MainWindowViewModel.MyDb!;
 
-        UpdateDatebaseToContainAllChampions();
+        UpdateDatebaseToContainAllDefaultChampionData();
     }
 
-    private void UpdateDatebaseToContainAllChampions()
+    private void UpdateDatebaseToContainAllDefaultChampionData()
     {
         var championSaves = _db.ChampionSaves.ToList();
 
@@ -75,6 +75,33 @@ public class ChampionService
             }
         }
 
+        ConfigData? lastVersion = _db.ConfigDatas.FirstOrDefault(x => x.ConfigName == "LastUpdate");
+        if (lastVersion != null)
+        {
+            lastVersion.ConfigValue = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        }
+        else
+        {
+            _db.ConfigDatas.Add(new ConfigData()
+            {
+                ConfigValue = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"),
+                ConfigName = "LastUpdate"
+            });
+        }
+        ConfigData? version = _db.ConfigDatas.FirstOrDefault(x => x.ConfigName == "Version");
+        if (version != null)
+        {
+            version.ConfigValue = "14.7.1";
+        }
+        else
+        {
+            _db.ConfigDatas.Add(new ConfigData()
+            {
+                ConfigValue = "14.7.1",
+                ConfigName = "Version"
+            });
+        }
+
         _db.SaveChanges();
     }
 
@@ -87,6 +114,6 @@ public class ChampionService
     {
         _db.ChampionSaves.RemoveRange(_db.ChampionSaves.ToList());
         _db.SaveChanges();
-        UpdateDatebaseToContainAllChampions();
+        UpdateDatebaseToContainAllDefaultChampionData();
     }
 }

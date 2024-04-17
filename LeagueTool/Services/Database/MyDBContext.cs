@@ -16,6 +16,7 @@ public class MyDbContext : DbContext
     }
 
     public DbSet<ChampionSave> ChampionSaves { get; set; }
+    public DbSet<ConfigData> ConfigDatas { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

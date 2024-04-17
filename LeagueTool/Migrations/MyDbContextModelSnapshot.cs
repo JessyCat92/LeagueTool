@@ -52,6 +52,29 @@ namespace LeagueTool.Migrations
 
                     b.ToTable("ChampionSaves");
                 });
+
+            modelBuilder.Entity("LeagueTool.Models.ConfigData", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER")
+                        .HasColumnOrder(0);
+
+                    b.Property<string>("ConfigName")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ConfigValue")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ConfigName")
+                        .IsUnique();
+
+                    b.ToTable("ConfigDatas");
+                });
 #pragma warning restore 612, 618
         }
     }
