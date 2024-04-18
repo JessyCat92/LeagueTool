@@ -32,8 +32,7 @@
                 </MenuItem>
                 <MenuItem Header="_Database">
                     <MenuItem Header="_Reset Wins &amp; Tries" Click="MenuItemReset_OnClick" />
-                    <MenuItem Header="_Update Riot Data (All Asset Data)" Click="StartUpdate_Full"/>
-                    <MenuItem Header="Update Champion _Lane Data" />
+                    <MenuItem Header="_Update Champion Data" Click="StartUpdate_Full"/>
                 </MenuItem>
                 <MenuItem Header="_About" Click="MenuItemAbout_OnClick" />
                 <MenuItem Focusable="False" Cursor="Arrow" Header="{Binding VersionText}" IsEnabled="False"  HorizontalAlignment="Right"></MenuItem>
