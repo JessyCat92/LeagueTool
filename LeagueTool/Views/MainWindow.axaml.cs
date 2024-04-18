@@ -1,3 +1,6 @@
+using System;
+using System.Threading;
+using System.Threading.Tasks;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Interactivity;
@@ -5,6 +8,7 @@ using Avalonia.Media;
 using AvaloniaDialogs.Views;
 using LeagueTool.Services;
 using LeagueTool.ViewModels;
+using LeagueTool.Views.Dialogs;
 
 namespace LeagueTool.Views;
 
@@ -49,5 +53,19 @@ public partial class MainWindow : Window
 
             ViewModel!.ReloadPage();
         }
+    }
+
+    private async void StartUpdate_Full(object? sender, RoutedEventArgs e)
+    {
+        
+        ViewModel!.CloseOnClickAway = false;
+        
+        ProgressBarDialog dialog = new()
+        {
+            
+        };
+        await dialog.ShowAsync();
+        
+        ViewModel!.CloseOnClickAway = true;
     }
 }

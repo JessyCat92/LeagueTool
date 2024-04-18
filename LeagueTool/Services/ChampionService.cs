@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
+using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Platform;
 using LeagueTool.Models;
 using LeagueTool.Services.Database;
@@ -19,7 +20,26 @@ public class ChampionService
     {
         _db = MainWindowViewModel.MyDb!;
 
-        UpdateDatebaseToContainAllDefaultChampionData();
+        // check if Update is needed by existing ConfigData with ConfigName = Version and ConfigName = LastUpdate and if championSaves is not empty
+        if (_db.ConfigDatas.Any(x => x.ConfigName == "Version") && _db.ConfigDatas.Any(x => x.ConfigName == "LastUpdate") && _db.ChampionSaves.Any())
+        {
+            ConfigData? version = _db.ConfigDatas.FirstOrDefault(x => x.ConfigName == "Version");
+            if (version != null)
+            {
+                if (version.ConfigValue != "14.7.1")
+                {
+                    UpdateDatebaseToContainAllDefaultChampionData();
+                }
+            }
+            else
+            {
+                UpdateDatebaseToContainAllDefaultChampionData();
+            }
+        }
+        else
+        {
+            UpdateDatebaseToContainAllDefaultChampionData();
+        }
     }
 
     private void UpdateDatebaseToContainAllDefaultChampionData()
@@ -103,6 +123,11 @@ public class ChampionService
         }
 
         _db.SaveChanges();
+        
+        if (Avalonia.Application.Current.ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
+        {
+            (desktop.MainWindow?.DataContext as MainWindowViewModel)?.UpdateVersion();
+        }
     }
 
     public List<ChampionSave> GetChampionSaves()
