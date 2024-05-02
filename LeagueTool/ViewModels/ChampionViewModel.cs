@@ -8,7 +8,7 @@ namespace LeagueTool.ViewModels;
 
 public class ChampionViewModel : ViewModelBase
 {
-    private readonly ChampionService _championService;
+    public static ChampionService _championService;
     private bool _jungleFilterToggled = false;
     private bool _topFilterToggled = false;
     private bool _midFilterToggled = false;
@@ -165,5 +165,14 @@ public class ChampionViewModel : ViewModelBase
         _filterText = text ?? "";
         
         UpdateEntriesRegardingFilters();
+    }
+    
+    public void ReloadPage()
+    {
+        Console.WriteLine("Update Champions");
+        ChampionList.Clear();
+        var championList = _championService.GetChampionSaves();
+        Console.WriteLine("Found " + championList.Count + " Champions");
+        foreach (var champion in championList) ChampionList.Add(new ChampionListItemModel(champion));
     }
 }

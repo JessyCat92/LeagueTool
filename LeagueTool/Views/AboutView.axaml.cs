@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using Avalonia.Controls;
+using Avalonia.Input;
 using Avalonia.Interactivity;
 using LeagueTool.ViewModels;
 
@@ -47,5 +48,10 @@ public partial class AboutView : UserControl
                       throw new InvalidOperationException("DataContext is not MainWindowViewModel");
 
         context.SetCurrentPage(MainWindowViewModel.PageViews.Champion);
+    }
+
+    private void InputElement_OnPointerPressed(object? sender, PointerPressedEventArgs e)
+    {
+        OpenUrl("https://github.com/JessyCat92/LeagueTool");
     }
 }
