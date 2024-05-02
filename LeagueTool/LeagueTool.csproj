@@ -34,6 +34,7 @@
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
+        <PackageReference Include="SevenZipExtractor" Version="1.0.17" />
     </ItemGroup>
 
     <ItemGroup>
@@ -1864,5 +1865,25 @@
         <UpToDateCheckInput Remove="Assets\riot\dragontail\img\champion\tiles\Zyra_5.jpg"/>
         <UpToDateCheckInput Remove="Assets\riot\dragontail\img\champion\tiles\Zyra_6.jpg"/>
         <UpToDateCheckInput Remove="Assets\riot\dragontail\img\champion\tiles\Zyra_7.jpg"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Views\ProgressBarDialogView.axaml.cs">
+        <DependentUpon>ProgressBarDialog.axaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <AdditionalFiles Include="Views\ProgressBarDialog.axaml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="Depedencies\7z.dll">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="Depedencies\7z.exe">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
 </Project>

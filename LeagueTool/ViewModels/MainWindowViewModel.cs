@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using LeagueTool.Services.Database;
 using Microsoft.EntityFrameworkCore;
@@ -45,6 +46,11 @@ public class MainWindowViewModel : ViewModelBase
         });
     }
 
+    public void UpdateChampions()
+    {
+        (_Pages[PageViews.Champion] as ChampionViewModel)!.ReloadPage();
+    }
+
     public ViewModelBase CurrentPage
     {
         get => _CurrentPage;
@@ -69,7 +75,6 @@ public class MainWindowViewModel : ViewModelBase
 
     public void ReloadPage()
     {
-        CurrentPage = _Pages[PageViews.About];
         _Pages[PageViews.Champion] = new ChampionViewModel();
         CurrentPage = _Pages[PageViews.Champion];
     }

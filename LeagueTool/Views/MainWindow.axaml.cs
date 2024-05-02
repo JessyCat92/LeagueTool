@@ -1,5 +1,4 @@
 using System;
-using System.Threading;
 using System.Threading.Tasks;
 using Avalonia;
 using Avalonia.Controls;
@@ -7,8 +6,8 @@ using Avalonia.Interactivity;
 using Avalonia.Media;
 using AvaloniaDialogs.Views;
 using LeagueTool.Services;
+using LeagueTool.Services.Progress;
 using LeagueTool.ViewModels;
-using LeagueTool.Views.Dialogs;
 
 namespace LeagueTool.Views;
 
@@ -50,8 +49,7 @@ public partial class MainWindow : Window
         {
             var service = new ChampionService();
             service.ResetDatabase();
-
-            ViewModel!.ReloadPage();
+            // ViewModel!.ReloadPage();
         }
     }
 
@@ -59,11 +57,16 @@ public partial class MainWindow : Window
     {
         
         ViewModel!.CloseOnClickAway = false;
+        IProgress<ProgressState> progressState = new Progress<ProgressState>();
+        ProgressBarDialogView dialog = new((Progress<ProgressState>)progressState);
         
-        ProgressBarDialog dialog = new()
+        // to test create Task that changes progress every second
+        Task.Run(async () =>
         {
-            
-        };
+            UpdateService service = new(progressState);
+            await service.StartUpdate();
+        });
+        //
         await dialog.ShowAsync();
         
         ViewModel!.CloseOnClickAway = true;
